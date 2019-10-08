@@ -1,0 +1,7 @@
+D:\DEV\C#\Practice\Fibonacci_Triangle\Fibonacci_Triangle\bin\Debug\Fibonacci_Triangle.exe.config
+D:\DEV\C#\Practice\Fibonacci_Triangle\Fibonacci_Triangle\bin\Debug\Fibonacci_Triangle.exe
+D:\DEV\C#\Practice\Fibonacci_Triangle\Fibonacci_Triangle\bin\Debug\Fibonacci_Triangle.pdb
+D:\DEV\C#\Practice\Fibonacci_Triangle\Fibonacci_Triangle\obj\Debug\Fibonacci_Triangle.csprojAssemblyReference.cache
+D:\DEV\C#\Practice\Fibonacci_Triangle\Fibonacci_Triangle\obj\Debug\Fibonacci_Triangle.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Practice\Fibonacci_Triangle\Fibonacci_Triangle\obj\Debug\Fibonacci_Triangle.exe
+D:\DEV\C#\Practice\Fibonacci_Triangle\Fibonacci_Triangle\obj\Debug\Fibonacci_Triangle.pdb
